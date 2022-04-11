@@ -4,4 +4,4 @@
 python3 manage.py runserver
 
 
-![image blog]()
+![image blog](https://github.com/andrew18ned/siteblog-on-django/blob/main/djangosite.png)
