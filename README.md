@@ -5,4 +5,4 @@
 
 ___
 ## Run
-python3 manage.py runserver
+./manage.py runserver
